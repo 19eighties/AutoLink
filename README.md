@@ -3,7 +3,7 @@
 - When you post an URL, AutoLinks automatically embeds images, MP3 and videos.
 - Currently supported are:
   * images
-  * mp3d
+  * mp3
   * Youtube
   * Google Video
   * Facebook Video
